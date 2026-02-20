@@ -212,4 +212,4 @@ This project was built as a full-stack learning project focused on real-world re
 ---
 
 ## 👩‍💻 Author
-Electrical Engineering student transitioning into Software Development with focus on full-stack de
+Electrical Engineering student transitioning into Software Development with focus on full-stack development and scalable applications.
